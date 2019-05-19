@@ -1,5 +1,7 @@
 # Source
 Update to restore post links. Update post recovers link in facebook.
-,,,
-##Generated
 ...
+# Generated sub
+Netlify
+...
+# Share to Facebook
